@@ -1,0 +1,174 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/production/classes/
+/Simple Search Engine/task/out/test/classes/
+/Topics/Call stack/Follow the call stack/out/
+/Topics/Call stack/Follow the call stack/out/production/classes/
+/Topics/Call stack/Theory/out/
+/Topics/Call stack/Theory/out/production/classes/
+/Topics/Call stack/What does a stack frame hold/out/
+/Topics/Call stack/What does a stack frame hold/out/production/classes/
+/Topics/Characters/A capital letter or a digit/out/
+/Topics/Characters/A capital letter or a digit/out/production/classes/
+/Topics/Characters/Compare Latin letters/out/
+/Topics/Characters/Compare Latin letters/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Characters/Sequence/out/
+/Topics/Characters/Sequence/out/production/classes/
+/Topics/Characters/Theory/out/
+/Topics/Characters/Theory/out/production/classes/
+/Topics/Coding style conventions/Violation/out/
+/Topics/Coding style conventions/Violation/out/production/classes/
+/Topics/Comments/Comment syntax/out/
+/Topics/Comments/Comment syntax/out/production/classes/
+/Topics/Comments/Printing only the longest line/out/
+/Topics/Comments/Printing only the longest line/out/production/classes/
+/Topics/Comments/Theory/out/
+/Topics/Comments/Theory/out/production/classes/
+/Topics/Comments/Uncomment some lines/out/
+/Topics/Comments/Uncomment some lines/out/production/classes/
+/Topics/Comments/Unused comments/out/
+/Topics/Comments/Unused comments/out/production/classes/
+/Topics/Constructors/Correct declaration/out/
+/Topics/Constructors/Correct declaration/out/production/classes/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Constructors/Theory/out/
+/Topics/Constructors/Theory/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Debugging techniques/Proper tools/out/
+/Topics/Debugging techniques/Proper tools/out/production/classes/
+/Topics/Debugging techniques/Theory/out/
+/Topics/Debugging techniques/Theory/out/production/classes/
+/Topics/Declaring classes/Composition/out/
+/Topics/Declaring classes/Composition/out/production/classes/
+/Topics/Declaring classes/Operations on var objects/out/
+/Topics/Declaring classes/Operations on var objects/out/production/classes/
+/Topics/Declaring classes/Possible properties types/out/
+/Topics/Declaring classes/Possible properties types/out/production/classes/
+/Topics/Declaring classes/Theory/out/
+/Topics/Declaring classes/Theory/out/production/classes/
+/Topics/Default arguments/Declarations/out/
+/Topics/Default arguments/Declarations/out/production/classes/
+/Topics/Default arguments/Invocations/out/
+/Topics/Default arguments/Invocations/out/production/classes/
+/Topics/Default arguments/Print Username/out/
+/Topics/Default arguments/Print Username/out/production/classes/
+/Topics/Default arguments/Theory/out/
+/Topics/Default arguments/Theory/out/production/classes/
+/Topics/Equality/Every mistake makes coding stronger/out/
+/Topics/Equality/Every mistake makes coding stronger/out/production/classes/
+/Topics/Equality/The same object/out/
+/Topics/Equality/The same object/out/production/classes/
+/Topics/Equality/Theory/out/
+/Topics/Equality/Theory/out/production/classes/
+/Topics/Errors in programs/Select the statement/out/
+/Topics/Errors in programs/Select the statement/out/production/classes/
+/Topics/Errors in programs/What's wrong/out/
+/Topics/Errors in programs/What's wrong/out/production/classes/
+/Topics/For loop and lists/Circular shift/out/
+/Topics/For loop and lists/Circular shift/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/The maximum pairwise product/out/
+/Topics/For loop and ranges/The maximum pairwise product/out/production/classes/
+/Topics/Functional decomposition/Calculator with four functions/out/
+/Topics/Functional decomposition/Calculator with four functions/out/production/classes/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/Integers in action/The sum of digits/out/
+/Topics/Integers in action/The sum of digits/out/production/classes/
+/Topics/Integers in action/Theory/out/
+/Topics/Integers in action/Theory/out/production/classes/
+/Topics/Integers in action/Underscore/out/
+/Topics/Integers in action/Underscore/out/production/classes/
+/Topics/Integers in action/Unsigned integers/out/
+/Topics/Integers in action/Unsigned integers/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Introduction to MutableList/Swap/out/
+/Topics/Introduction to MutableList/Swap/out/production/classes/
+/Topics/Invoking functions/Correct statements/out/
+/Topics/Invoking functions/Correct statements/out/production/classes/
+/Topics/Invoking functions/Theory/out/
+/Topics/Invoking functions/Theory/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/
+/Topics/Lambda expressions/Range multiplication/out/
+/Topics/Lambda expressions/Range multiplication/out/production/classes/
+/Topics/Linear search/Searching for an array in an array/build/
+/Topics/Linear search/Searching for an array in an array/out/
+/Topics/Linear search/Searching for an array in an array/out/production/classes/
+/Topics/Member functions/Application as a class/out/
+/Topics/Member functions/Application as a class/out/production/classes/
+/Topics/Member functions/Operations/out/
+/Topics/Member functions/Operations/out/production/classes/
+/Topics/Member functions/Theory/out/
+/Topics/Member functions/Theory/out/production/classes/
+/Topics/Mutable List/Mutable List/out/
+/Topics/Mutable List/Mutable List/out/production/classes/
+/Topics/Mutable Map/Exam marks/out/
+/Topics/Mutable Map/Exam marks/out/production/classes/
+/Topics/Named arguments/Declarations/out/
+/Topics/Named arguments/Declarations/out/production/classes/
+/Topics/Named arguments/Determine the result/out/
+/Topics/Named arguments/Determine the result/out/production/classes/
+/Topics/Named arguments/Find the correct invocations/out/
+/Topics/Named arguments/Find the correct invocations/out/production/classes/
+/Topics/Named arguments/Invocations/out/
+/Topics/Named arguments/Invocations/out/production/classes/
+/Topics/Named arguments/Theory/out/
+/Topics/Named arguments/Theory/out/production/classes/
+/Topics/Object declarations/Blocks in a box/out/
+/Topics/Object declarations/Blocks in a box/out/production/classes/
+/Topics/Overview of the basic program/Multiple statements/out/
+/Topics/Overview of the basic program/Multiple statements/out/production/classes/
+/Topics/Overview of the basic program/Name of an entry point/out/
+/Topics/Overview of the basic program/Name of an entry point/out/production/classes/
+/Topics/Overview of the basic program/The eternal truth/out/
+/Topics/Overview of the basic program/The eternal truth/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Standard input/Theory/out/
+/Topics/Standard input/Theory/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Topics/Standard output/Print code/out/
+/Topics/Standard output/Print code/out/production/classes/
+/Topics/Standard output/Theory/out/
+/Topics/Standard output/Theory/out/production/classes/
+/Topics/Standard output/We need to learn Kotlin/out/
+/Topics/Standard output/We need to learn Kotlin/out/production/classes/
+/Topics/String basics/I'm learning Kotlin/out/
+/Topics/String basics/I'm learning Kotlin/out/production/classes/
+/Topics/String basics/Theory/out/
+/Topics/String basics/Theory/out/production/classes/
+/Topics/String templates/Repetitions and templates/out/
+/Topics/String templates/Repetitions and templates/out/production/classes/
+/Topics/String templates/Templates for expressions/out/
+/Topics/String templates/Templates for expressions/out/production/classes/
+/Topics/String templates/Theory/out/
+/Topics/String templates/Theory/out/production/classes/
+/Topics/String templates/What are string templates/out/
+/Topics/String templates/What are string templates/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
+/Topics/The classification of basic types/Theory/out/
+/Topics/The classification of basic types/Theory/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
+/Topics/Type conversion/Theory/out/
+/Topics/Type conversion/Theory/out/production/classes/

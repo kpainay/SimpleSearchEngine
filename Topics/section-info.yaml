@@ -1,0 +1,49 @@
+content:
+- Overview of the basic program
+- Values and variables
+- Comments
+- Coding style conventions
+- The classification of basic types
+- Standard output
+- Invoking functions
+- Standard input
+- Type conversion
+- Reading data with a readln
+- String basics
+- String templates
+- Integers in action
+- Relational operators
+- If expression
+- Errors in programs
+- What is an exception
+- Declaring classes
+- Equality
+- Characters
+- Ranges
+- When expression
+- Functional decomposition
+- Default arguments
+- Named arguments
+- Constructors
+- Member functions
+- Introduction to MutableList
+- For loop and ranges
+- Work with MutableLists
+- For loop and lists
+- Working with strings
+- Processing strings
+- Call stack
+- Object declarations
+- Debugging techniques
+- Linear search
+- Jumps and returns
+- Functions as objects
+- Lambda expressions
+- Arrays
+- String arrays
+- The main() function
+- List
+- Mutable List
+- Map
+- Mutable Map
+- Enum
